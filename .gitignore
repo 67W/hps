@@ -1,0 +1,31 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/production/classes/
+/Cinema Room Manager/task/out/test/classes/
+/Topics/Introduction to Kotlin/Hello, Kotlin/out/
+/Topics/Introduction to Kotlin/Hello, Kotlin/out/production/classes/
+/Topics/Introduction to Kotlin/Theory/out/
+/Topics/Introduction to Kotlin/Theory/out/production/classes/
+/Topics/Overview of the basic program/I like Kotlin/out/
+/Topics/Overview of the basic program/I like Kotlin/out/production/classes/
+/Topics/Overview of the basic program/The eternal truth/out/
+/Topics/Overview of the basic program/The eternal truth/out/production/classes/
+/Topics/Overview of the basic program/The Hello World program/out/
+/Topics/Overview of the basic program/The Hello World program/out/production/classes/
+/Topics/Overview of the basic program/Theory/out/
+/Topics/Overview of the basic program/Theory/out/production/classes/
+/Topics/Overview of the basic program/Your name/out/
+/Topics/Overview of the basic program/Your name/out/production/classes/
+/Topics/Standard output/Print a triangle/out/
+/Topics/Standard output/Print a triangle/out/production/classes/
+/Topics/Standard output/Theory/out/
+/Topics/Standard output/Theory/out/production/classes/
+/Topics/Values and variables/Assignments/out/
+/Topics/Values and variables/Assignments/out/production/classes/
+/Topics/Values and variables/Theory/out/
+/Topics/Values and variables/Theory/out/production/classes/
+/Topics/Values and variables/val or var?/out/
+/Topics/Values and variables/val or var?/out/production/classes/
+/Topics/Values and variables/Very Big Number/out/
+/Topics/Values and variables/Very Big Number/out/production/classes/
